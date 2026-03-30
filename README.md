@@ -1,3 +1,7 @@
 # csv
 # 1)mostrar por pantallas las ultimas 10 filas de las rpmeras 3 filas
 # 2)mostrar las ultimas 8 filas de la ultima columna
+# 3)abrir el csv mostrar las columnas gender y masthsore.
+# mostrar la cantidad de columnas y filas que tiene.
+# mostrar las primeras 4 filas.
+# mostrar las ultimas 4 lineas.
