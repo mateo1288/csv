@@ -5,3 +5,4 @@
 # mostrar la cantidad de columnas y filas que tiene.
 # mostrar las primeras 4 filas.
 # mostrar las ultimas 4 lineas.
+# 4) abrir el csv, mostrar las primeras 100 filas. mostrar la cantidad. mostrar la ultia fila.
