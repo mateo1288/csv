@@ -10,3 +10,4 @@
 ## 6)abrir el csv. mostrar las columnas gender y maxcore. mostra el tipo de dato de la columna gender. mostrar si hay filas o culumnas bacias. mostrar la cantidad de filas y columnas y mostrar las ultima 5 filas
 ## 9)abrir el csv las ultimas 3 columnas. mostrar las 100 primerasa filas. mostrar la cantidad de la primera columna. mostrar si hay filas vacias. mostrar los diferentes tipo de dato de lasa columnas
 ## 12)abrir csv. sumar la columna mathcore. encotrar el minimo y el maximo en la columna math core. contar los elementos de la columna mathcore
+## 13)
